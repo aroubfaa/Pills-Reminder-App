@@ -1,0 +1,6 @@
+Medication: panadol, Days: ٢, AllowedDays: ٢, Pills: 3 pills
+Medication: parasetamol, Days: ٣, AllowedDays: ٣, Pills: 3 pills
+Medication: pamlel, Days: ٤, AllowedDays: ٤, Pills: 4 pills
+Medication: pa, Days: ٢, AllowedDays: ٢, Pills: 2 pills
+Medication: g, Days: ٠, AllowedDays: ٤, Pills: 1 pill
+Medication: parestamol, Days: ٢, AllowedDays: ٧, Pills: 2 pills
